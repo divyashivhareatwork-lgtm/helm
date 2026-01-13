@@ -3,7 +3,17 @@ entries:
   shipping:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-13T17:04:19.774737+05:30"
+    created: "2026-01-13T20:18:29.38094+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 4b3a80df3d782c4e771c7878883faee2ab2d947796983c5cd9243acba318cd6c
+    name: shipping
+    type: application
+    urls:
+    - shipping-1.0.0.tgz
+    version: 1.0.0
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-01-13T20:18:29.379658+05:30"
     description: A Helm chart for Kubernetes
     digest: 7835d44814c3349206ca93a7a9ecb2253899cfec6d54daabb48f24b268e014b0
     name: shipping
@@ -13,7 +23,7 @@ entries:
     version: 0.9.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-13T17:04:19.774587+05:30"
+    created: "2026-01-13T20:18:29.379349+05:30"
     description: A Helm chart for Kubernetes
     digest: 03c27fd8f8692e9a5cb4a34ffb98410aee5c67008f3a8f300df0843e9ceffe91
     name: shipping
@@ -23,7 +33,7 @@ entries:
     version: 0.8.0
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2026-01-13T17:04:19.774322+05:30"
+    created: "2026-01-13T20:18:29.37906+05:30"
     description: A Helm chart for Kubernetes
     digest: 9cec32c57d12c18e8011e8f5997d948ef08ee8459205c107104db6ea6cbcf49f
     name: shipping
@@ -33,7 +43,7 @@ entries:
     version: 0.7.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-13T17:04:19.773968+05:30"
+    created: "2026-01-13T20:18:29.378764+05:30"
     description: A Helm chart for Kubernetes
     digest: 1a4595cb53d08014dd5aaec0fef16f1ba3d4e2e42484a19cf8e1587c82eb67d9
     name: shipping
@@ -43,7 +53,7 @@ entries:
     version: 0.6.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-13T17:04:19.773608+05:30"
+    created: "2026-01-13T20:18:29.378468+05:30"
     description: A Helm chart for Kubernetes
     digest: 3dd4531b7ebe7fb28ce7cde7d9766ba94f0b859de54b2638b230024920c400cb
     name: shipping
@@ -53,7 +63,7 @@ entries:
     version: 0.5.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-13T17:04:19.773326+05:30"
+    created: "2026-01-13T20:18:29.377974+05:30"
     description: A Helm chart for Kubernetes
     digest: adc268d6497acd5b10e97164e76aa57873a7cba0422b0c7dcb3a3903faf60b76
     name: shipping
@@ -63,7 +73,7 @@ entries:
     version: 0.4.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-13T17:04:19.772902+05:30"
+    created: "2026-01-13T20:18:29.377626+05:30"
     description: A Helm chart for Kubernetes
     digest: 39414eff6d179b55abf1f65b55fbc23159611971a85b828a7ce5540adfb1cd3b
     name: shipping
@@ -73,7 +83,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-13T17:04:19.771713+05:30"
+    created: "2026-01-13T20:18:29.377292+05:30"
     description: A Helm chart for Kubernetes
     digest: 9efb8c9196df9f42c1b7881b5d39270af261e61e61084e2b3bea8c5de82f4f17
     name: shipping
@@ -83,7 +93,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2026-01-13T17:04:19.771301+05:30"
+    created: "2026-01-13T20:18:29.376943+05:30"
     description: A Helm chart for Kubernetes
     digest: 493ae217b63088040bec2baf716ccc4b385e18aefc72a067082b3d531a7b2ee6
     name: shipping
@@ -91,4 +101,4 @@ entries:
     urls:
     - shipping-0.1.0.tgz
     version: 0.1.0
-generated: "2026-01-13T17:04:19.770391+05:30"
+generated: "2026-01-13T20:18:29.376201+05:30"
